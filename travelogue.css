@@ -11,6 +11,9 @@ img {
 }
 
  h1 {
+    font-size: 600%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
     color:aliceblue;
     padding: 20px;
     width: 93%;
@@ -89,13 +92,20 @@ justify-content: space-between;
 }
 
 p {
-    background-color: rgb(45, 82, 70);
+    background-color: rgb(97, 217, 207);
     border-radius: 10px;
     padding: 20px;
 }
 
 article{
-    background-color: rgb(45, 82, 70);
+    background-color: rgb(174, 161, 215);
+    margin-top: 300px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+figcaption{
+    background-color: rgb(208, 89, 89);
     margin-top: 300px;
     border-radius: 10px;
     padding: 20px;
